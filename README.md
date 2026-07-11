@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Roshani Patil</h1>
 
-<!--
-**Roshani-patil07/roshani-patil07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Computer Science Engineering Student | Java Developer | Android Developer | Full Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building scalable software, exploring modern technologies, and solving real-world problems through innovation.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Computer Science Engineering
+- 💻 Passionate about Java & Android Developer
+- 🌐 Learning Full Stack Development (MERN Stack)
+- 📚 Solving Data Structures & Algorithms using Java
+- 🤖 Learning Artificial Intelligence & Machine Learning
+- 🚀 Building scalable and user-friendly software applications
+- 🎯 Aspiring Software Development Engineer (SDE)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mysql,mongodb,firebase,git,github,vscode,androidstudio,figma,postman" />
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
